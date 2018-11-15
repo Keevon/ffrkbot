@@ -41,6 +41,7 @@
     "sinon": "^2.4.1"
   },
   "scripts": {
+    "start": "node ffrkbot.js",
     "test": "mocha"
   },
   "author": "Hail Hydrate",

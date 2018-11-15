@@ -58,7 +58,7 @@ typings/
 .env
 
 # Ignore config.json
-config.json
+#config.json
 
 # Ignore swap files
 *.swp
