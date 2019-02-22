@@ -17,6 +17,7 @@
         "school": "White Magic",
         "braveCondition": "White Magic, Bard",
         "name(jp)": "ヒールメロディ",
+        "id": "30542217",
         "✓": "✓"
     },
     {
@@ -37,6 +38,7 @@
         "school": "White Magic",
         "braveCondition": "White Magic, Bard",
         "name(jp)": "ヒールメロディ",
+        "id": "30542218",
         "✓": "✓"
     },
     {
@@ -54,6 +56,7 @@
         "school": "White Magic",
         "braveCondition": "White Magic, Bard",
         "name(jp)": "ヒールメロディ",
+        "id": "30542219",
         "✓": "✓"
     },
     {
@@ -74,6 +77,7 @@
         "school": "White Magic",
         "braveCondition": "White Magic, Bard",
         "name(jp)": "ヒールメロディ",
+        "id": "30542310",
         "✓": "✓"
     },
     {
@@ -94,6 +98,7 @@
         "school": "Heavy",
         "braveCondition": "Heavy",
         "name(jp)": "サドンストライク",
+        "id": "30549193",
         "✓": "✓"
     },
     {
@@ -114,6 +119,7 @@
         "school": "Heavy",
         "braveCondition": "Heavy",
         "name(jp)": "サドンストライク",
+        "id": "30549194",
         "✓": "✓"
     },
     {
@@ -134,6 +140,7 @@
         "school": "Heavy",
         "braveCondition": "Heavy",
         "name(jp)": "サドンストライク",
+        "id": "30549195",
         "✓": "✓"
     },
     {
@@ -154,6 +161,7 @@
         "school": "Heavy",
         "braveCondition": "Heavy",
         "name(jp)": "サドンストライク",
+        "id": "30549196",
         "✓": "✓"
     },
     {
@@ -174,6 +182,7 @@
         "school": "Samurai",
         "braveCondition": "Samurai",
         "name(jp)": "トリニティアーツ",
+        "id": "30549111",
         "gl": "✓",
         "✓": "✓"
     },
@@ -195,6 +204,7 @@
         "school": "Samurai",
         "braveCondition": "Samurai",
         "name(jp)": "トリニティアーツ",
+        "id": "30549112",
         "gl": "✓",
         "✓": "✓"
     },
@@ -216,6 +226,7 @@
         "school": "Samurai",
         "braveCondition": "Samurai",
         "name(jp)": "トリニティアーツ",
+        "id": "30549113",
         "gl": "✓",
         "✓": "✓"
     },
@@ -237,6 +248,7 @@
         "school": "Samurai",
         "braveCondition": "Samurai",
         "name(jp)": "トリニティアーツ",
+        "id": "30549114",
         "gl": "✓",
         "✓": "✓"
     },
@@ -258,6 +270,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "背徳の剣",
+        "id": "30549564",
         "✓": "✓"
     },
     {
@@ -278,6 +291,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "背徳の剣",
+        "id": "30549565",
         "✓": "✓"
     },
     {
@@ -298,6 +312,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "背徳の剣",
+        "id": "30549566",
         "✓": "✓"
     },
     {
@@ -318,12 +333,13 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "背徳の剣",
+        "id": "30549567",
         "✓": "✓"
     },
     {
         "character": "Arc",
-        "source": "Divine Rain",
-        "name": "Living Spring",
+        "source": "Heavenly Rains",
+        "name": "Life Fountain",
         "brave": 0,
         "type": "WHT",
         "target": "Single ally",
@@ -338,12 +354,14 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "命脈の泉",
+        "id": "30542211",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Arc",
-        "source": "Divine Rain",
-        "name": "Living Spring",
+        "source": "Heavenly Rains",
+        "name": "Life Fountain",
         "brave": 1,
         "type": "WHT",
         "target": "All allies",
@@ -358,12 +376,14 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "命脈の泉",
+        "id": "30542212",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Arc",
-        "source": "Divine Rain",
-        "name": "Living Spring",
+        "source": "Heavenly Rains",
+        "name": "Life Fountain",
         "brave": 2,
         "type": "WHT",
         "target": "All allies",
@@ -375,12 +395,14 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "命脈の泉",
+        "id": "30542213",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Arc",
-        "source": "Divine Rain",
-        "name": "Living Spring",
+        "source": "Heavenly Rains",
+        "name": "Life Fountain",
         "brave": 3,
         "type": "WHT",
         "target": "All allies",
@@ -395,11 +417,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "命脈の泉",
+        "id": "30542214",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Cecil (Paladin)",
-        "source": "Advance Crystal",
+        "source": "Crystal Vanguard",
         "name": "Searchlight",
         "brave": 0,
         "type": "PHY",
@@ -415,11 +439,13 @@
         "school": "Knight",
         "braveCondition": "Knight",
         "name(jp)": "サーチライト",
+        "id": "30548246",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Cecil (Paladin)",
-        "source": "Advance Crystal",
+        "source": "Crystal Vanguard",
         "name": "Searchlight",
         "brave": 1,
         "type": "PHY",
@@ -435,11 +461,13 @@
         "school": "Knight",
         "braveCondition": "Knight",
         "name(jp)": "サーチライト",
+        "id": "30548247",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Cecil (Paladin)",
-        "source": "Advance Crystal",
+        "source": "Crystal Vanguard",
         "name": "Searchlight",
         "brave": 2,
         "type": "PHY",
@@ -455,11 +483,13 @@
         "school": "Knight",
         "braveCondition": "Knight",
         "name(jp)": "サーチライト",
+        "id": "30548248",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Cecil (Paladin)",
-        "source": "Advance Crystal",
+        "source": "Crystal Vanguard",
         "name": "Searchlight",
         "brave": 3,
         "type": "PHY",
@@ -475,6 +505,8 @@
         "school": "Knight",
         "braveCondition": "Knight",
         "name(jp)": "サーチライト",
+        "id": "30548249",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -495,6 +527,7 @@
         "school": "Dragoon",
         "braveCondition": "Dragoon",
         "name(jp)": "ライジングハイ",
+        "id": "30548018",
         "gl": "✓",
         "✓": "✓"
     },
@@ -516,6 +549,7 @@
         "school": "Dragoon",
         "braveCondition": "Dragoon",
         "name(jp)": "ライジングハイ",
+        "id": "30548019",
         "gl": "✓",
         "✓": "✓"
     },
@@ -537,6 +571,7 @@
         "school": "Dragoon",
         "braveCondition": "Dragoon",
         "name(jp)": "ライジングハイ",
+        "id": "30548110",
         "gl": "✓",
         "✓": "✓"
     },
@@ -558,6 +593,7 @@
         "school": "Dragoon",
         "braveCondition": "Dragoon",
         "name(jp)": "ライジングハイ",
+        "id": "30548111",
         "gl": "✓",
         "✓": "✓"
     },
@@ -579,6 +615,7 @@
         "school": "Summoning",
         "braveCondition": "Earth",
         "name(jp)": "巨人の咆哮",
+        "id": "30543042",
         "✓": "✓"
     },
     {
@@ -599,6 +636,7 @@
         "school": "Summoning",
         "braveCondition": "Earth",
         "name(jp)": "巨人の咆哮",
+        "id": "30543043",
         "✓": "✓"
     },
     {
@@ -619,6 +657,7 @@
         "school": "Summoning",
         "braveCondition": "Earth",
         "name(jp)": "巨人の咆哮",
+        "id": "30543044",
         "✓": "✓"
     },
     {
@@ -639,6 +678,7 @@
         "school": "Summoning",
         "braveCondition": "Earth",
         "name(jp)": "巨人の咆哮",
+        "id": "30543045",
         "✓": "✓"
     },
     {
@@ -659,6 +699,7 @@
         "school": "Samurai",
         "braveCondition": "Fire",
         "name(jp)": "焔剣の舞",
+        "id": "30549211",
         "✓": "✓"
     },
     {
@@ -679,6 +720,7 @@
         "school": "Samurai",
         "braveCondition": "Fire",
         "name(jp)": "焔剣の舞",
+        "id": "30549212",
         "✓": "✓"
     },
     {
@@ -699,6 +741,7 @@
         "school": "Samurai",
         "braveCondition": "Fire",
         "name(jp)": "焔剣の舞",
+        "id": "30549213",
         "✓": "✓"
     },
     {
@@ -719,6 +762,7 @@
         "school": "Samurai",
         "braveCondition": "Fire",
         "name(jp)": "焔剣の舞",
+        "id": "30549214",
         "✓": "✓"
     },
     {
@@ -739,6 +783,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ねっぱ",
+        "id": "30548330",
         "✓": "✓"
     },
     {
@@ -759,6 +804,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ねっぱ",
+        "id": "30548331",
         "✓": "✓"
     },
     {
@@ -779,6 +825,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ねっぱ",
+        "id": "30548332",
         "✓": "✓"
     },
     {
@@ -799,6 +846,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ねっぱ",
+        "id": "30548333",
         "✓": "✓"
     },
     {
@@ -819,6 +867,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "デルタブラスター",
+        "id": "30541371",
         "gl": "✓",
         "✓": "✓"
     },
@@ -840,6 +889,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "デルタブラスター",
+        "id": "30541372",
         "gl": "✓",
         "✓": "✓"
     },
@@ -861,6 +911,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "デルタブラスター",
+        "id": "30541373",
         "gl": "✓",
         "✓": "✓"
     },
@@ -882,6 +933,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "デルタブラスター",
+        "id": "30541374",
         "gl": "✓",
         "✓": "✓"
     },
@@ -903,6 +955,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "しゅうちゅうほうか",
+        "id": "30541316",
         "gl": "✓",
         "✓": "✓"
     },
@@ -924,6 +977,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "しゅうちゅうほうか",
+        "id": "30541317",
         "gl": "✓",
         "✓": "✓"
     },
@@ -945,6 +999,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "しゅうちゅうほうか",
+        "id": "30541318",
         "gl": "✓",
         "✓": "✓"
     },
@@ -966,6 +1021,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "しゅうちゅうほうか",
+        "id": "30541319",
         "gl": "✓",
         "✓": "✓"
     },
@@ -987,6 +1043,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "ライオットファイア",
+        "id": "30541212",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1008,6 +1065,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "ライオットファイア",
+        "id": "30541213",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1029,6 +1087,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "ライオットファイア",
+        "id": "30541214",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1050,13 +1109,14 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "ライオットファイア",
+        "id": "30541215",
         "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Locke",
-        "source": "Returners Band",
-        "name": "Mirage Burn",
+        "source": "Returners Unite",
+        "name": "Burning Mirage",
         "brave": 0,
         "type": "PHY",
         "target": "Single enemy",
@@ -1071,12 +1131,14 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ミラージュバーン",
+        "id": "30548235",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Locke",
-        "source": "Returners Band",
-        "name": "Mirage Burn",
+        "source": "Returners Unite",
+        "name": "Burning Mirage",
         "brave": 1,
         "type": "PHY",
         "target": "Single enemy",
@@ -1091,12 +1153,14 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ミラージュバーン",
+        "id": "30548236",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Locke",
-        "source": "Returners Band",
-        "name": "Mirage Burn",
+        "source": "Returners Unite",
+        "name": "Burning Mirage",
         "brave": 2,
         "type": "PHY",
         "target": "Single enemy",
@@ -1111,12 +1175,14 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ミラージュバーン",
+        "id": "30548237",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Locke",
-        "source": "Returners Band",
-        "name": "Mirage Burn",
+        "source": "Returners Unite",
+        "name": "Burning Mirage",
         "brave": 3,
         "type": "PHY",
         "target": "Single enemy",
@@ -1131,12 +1197,14 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "ミラージュバーン",
+        "id": "30548238",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Gogo (VI)",
-        "source": "Mime Justice",
-        "name": "Mime (VI)",
+        "source": "Righteous Mimicry",
+        "name": "Mimic (VI)",
         "brave": 0,
         "type": "NAT",
         "target": "Single enemy",
@@ -1151,12 +1219,14 @@
         "school": "Special",
         "braveCondition": "Black Magic, Combat",
         "name(jp)": "ものまね【VI】",
+        "id": "30545044",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Gogo (VI)",
-        "source": "Mime Justice",
-        "name": "Mime (VI)",
+        "source": "Righteous Mimicry",
+        "name": "Mimic (VI)",
         "brave": 1,
         "type": "NAT",
         "target": "-",
@@ -1168,12 +1238,14 @@
         "school": "Special",
         "braveCondition": "Black Magic, Combat",
         "name(jp)": "ものまね【VI】",
+        "id": "30545047",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Gogo (VI)",
-        "source": "Mime Justice",
-        "name": "Mime (VI)",
+        "source": "Righteous Mimicry",
+        "name": "Mimic (VI)",
         "brave": 2,
         "type": "NAT",
         "target": "-",
@@ -1185,12 +1257,14 @@
         "school": "Special",
         "braveCondition": "Black Magic, Combat",
         "name(jp)": "ものまね【VI】",
+        "id": "30545048",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Gogo (VI)",
-        "source": "Mime Justice",
-        "name": "Mime (VI)",
+        "source": "Righteous Mimicry",
+        "name": "Mimic (VI)",
         "brave": 3,
         "type": "NAT",
         "target": "-",
@@ -1202,6 +1276,8 @@
         "school": "Special",
         "braveCondition": "Black Magic, Combat",
         "name(jp)": "ものまね【VI】",
+        "id": "30545049",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1222,6 +1298,8 @@
         "school": "Special",
         "braveCondition": "Fire",
         "name(jp)": "ビーストシュート",
+        "id": "30544084",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1242,6 +1320,8 @@
         "school": "Special",
         "braveCondition": "Fire",
         "name(jp)": "ビーストシュート",
+        "id": "30544085",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1262,6 +1342,8 @@
         "school": "Special",
         "braveCondition": "Fire",
         "name(jp)": "ビーストシュート",
+        "id": "30544122",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1282,11 +1364,13 @@
         "school": "Special",
         "braveCondition": "Fire",
         "name(jp)": "ビーストシュート",
+        "id": "30544086",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Reno",
-        "source": "Pyramid Maximum",
+        "source": "Pyramid Pinnacle",
         "name": "Spark Rod",
         "brave": 0,
         "type": "NAT",
@@ -1302,11 +1386,13 @@
         "school": "Special",
         "braveCondition": "Lightning",
         "name(jp)": "スパークロッド",
+        "id": "30544110",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Reno",
-        "source": "Pyramid Maximum",
+        "source": "Pyramid Pinnacle",
         "name": "Spark Rod",
         "brave": 1,
         "type": "NAT",
@@ -1322,11 +1408,13 @@
         "school": "Special",
         "braveCondition": "Lightning",
         "name(jp)": "スパークロッド",
+        "id": "30544111",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Reno",
-        "source": "Pyramid Maximum",
+        "source": "Pyramid Pinnacle",
         "name": "Spark Rod",
         "brave": 2,
         "type": "NAT",
@@ -1342,11 +1430,13 @@
         "school": "Special",
         "braveCondition": "Lightning",
         "name(jp)": "スパークロッド",
+        "id": "30544112",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Reno",
-        "source": "Pyramid Maximum",
+        "source": "Pyramid Pinnacle",
         "name": "Spark Rod",
         "brave": 3,
         "type": "NAT",
@@ -1362,6 +1452,8 @@
         "school": "Special",
         "braveCondition": "Lightning",
         "name(jp)": "スパークロッド",
+        "id": "30544113",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1382,6 +1474,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "デュアルファング",
+        "id": "30547221",
         "✓": "✓"
     },
     {
@@ -1402,6 +1495,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "デュアルファング",
+        "id": "30547222",
         "✓": "✓"
     },
     {
@@ -1422,6 +1516,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "デュアルファング",
+        "id": "30547223",
         "✓": "✓"
     },
     {
@@ -1442,6 +1537,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "デュアルファング",
+        "id": "30547224",
         "✓": "✓"
     },
     {
@@ -1462,6 +1558,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・砲石",
+        "id": "30541043",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1483,6 +1580,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・砲石",
+        "id": "30541044",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1504,6 +1602,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・砲石",
+        "id": "30541045",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1525,6 +1624,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・砲石",
+        "id": "30541046",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1546,6 +1646,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・崩氷",
+        "id": "30541126",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1567,6 +1668,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・崩氷",
+        "id": "30541127",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1588,6 +1690,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・崩氷",
+        "id": "30541128",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1609,6 +1712,7 @@
         "school": "Black Magic",
         "braveCondition": "Black Magic",
         "name(jp)": "真の魔法・崩氷",
+        "id": "30541129",
         "gl": "✓",
         "✓": "✓"
     },
@@ -1630,6 +1734,7 @@
         "school": "Black Magic",
         "braveCondition": "Wind, Dark",
         "name(jp)": "拒絶の槍",
+        "id": "30541250",
         "✓": "✓"
     },
     {
@@ -1650,6 +1755,7 @@
         "school": "Black Magic",
         "braveCondition": "Wind, Dark",
         "name(jp)": "拒絶の槍",
+        "id": "30541251",
         "✓": "✓"
     },
     {
@@ -1670,6 +1776,7 @@
         "school": "Black Magic",
         "braveCondition": "Wind, Dark",
         "name(jp)": "拒絶の槍",
+        "id": "30541252",
         "✓": "✓"
     },
     {
@@ -1690,11 +1797,12 @@
         "school": "Black Magic",
         "braveCondition": "Wind, Dark",
         "name(jp)": "拒絶の槍",
+        "id": "30541253",
         "✓": "✓"
     },
     {
         "character": "Eiko",
-        "source": "Phoenix Feathers",
+        "source": "Phoenix Feather",
         "name": "Phoenix's Blessing",
         "brave": 0,
         "type": "WHT",
@@ -1710,11 +1818,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "不死鳥の祝福",
+        "id": "30542019",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Eiko",
-        "source": "Phoenix Feathers",
+        "source": "Phoenix Feather",
         "name": "Phoenix's Blessing",
         "brave": 1,
         "type": "WHT",
@@ -1730,11 +1840,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "不死鳥の祝福",
+        "id": "30542110",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Eiko",
-        "source": "Phoenix Feathers",
+        "source": "Phoenix Feather",
         "name": "Phoenix's Blessing",
         "brave": 2,
         "type": "WHT",
@@ -1747,11 +1859,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "不死鳥の祝福",
+        "id": "30542111",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Eiko",
-        "source": "Phoenix Feathers",
+        "source": "Phoenix Feather",
         "name": "Phoenix's Blessing",
         "brave": 3,
         "type": "WHT",
@@ -1764,6 +1878,8 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "不死鳥の祝福",
+        "id": "30542112",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -1784,6 +1900,7 @@
         "school": "Summoning",
         "braveCondition": "Summoning",
         "name(jp)": "聖獣の咆哮",
+        "id": "30543182",
         "✓": "✓"
     },
     {
@@ -1804,6 +1921,7 @@
         "school": "Summoning",
         "braveCondition": "Summoning",
         "name(jp)": "聖獣の咆哮",
+        "id": "30543183",
         "✓": "✓"
     },
     {
@@ -1824,6 +1942,7 @@
         "school": "Summoning",
         "braveCondition": "Summoning",
         "name(jp)": "聖獣の咆哮",
+        "id": "30543184",
         "✓": "✓"
     },
     {
@@ -1844,6 +1963,7 @@
         "school": "Summoning",
         "braveCondition": "Summoning",
         "name(jp)": "聖獣の咆哮",
+        "id": "30543185",
         "✓": "✓"
     },
     {
@@ -1864,6 +1984,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "破滅の奏楽",
+        "id": "30549464",
         "✓": "✓"
     },
     {
@@ -1884,6 +2005,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "破滅の奏楽",
+        "id": "30549465",
         "✓": "✓"
     },
     {
@@ -1904,6 +2026,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "破滅の奏楽",
+        "id": "30549466",
         "✓": "✓"
     },
     {
@@ -1924,11 +2047,12 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "破滅の奏楽",
+        "id": "30549467",
         "✓": "✓"
     },
     {
         "character": "Tidus",
-        "source": "Quick & Rush",
+        "source": "Quick Rush",
         "name": "Drive Shot",
         "brave": 0,
         "type": "PHY",
@@ -1944,11 +2068,13 @@
         "school": "Sharpshooter",
         "braveCondition": "Sharpshooter",
         "name(jp)": "ドライブシュート",
+        "id": "30549074",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Tidus",
-        "source": "Quick & Rush",
+        "source": "Quick Rush",
         "name": "Drive Shot",
         "brave": 1,
         "type": "PHY",
@@ -1964,11 +2090,13 @@
         "school": "Sharpshooter",
         "braveCondition": "Sharpshooter",
         "name(jp)": "ドライブシュート",
+        "id": "30549075",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Tidus",
-        "source": "Quick & Rush",
+        "source": "Quick Rush",
         "name": "Drive Shot",
         "brave": 2,
         "type": "PHY",
@@ -1984,11 +2112,13 @@
         "school": "Sharpshooter",
         "braveCondition": "Sharpshooter",
         "name(jp)": "ドライブシュート",
+        "id": "30549076",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Tidus",
-        "source": "Quick & Rush",
+        "source": "Quick Rush",
         "name": "Drive Shot",
         "brave": 3,
         "type": "PHY",
@@ -2004,11 +2134,13 @@
         "school": "Sharpshooter",
         "braveCondition": "Sharpshooter",
         "name(jp)": "ドライブシュート",
+        "id": "30549077",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Yuna",
-        "source": "Spiral Prayer",
+        "source": "Calm Prayer",
         "name": "Prayer of Hope",
         "brave": 0,
         "type": "WHT",
@@ -2024,11 +2156,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "希望の祈り",
+        "id": "30542013",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Yuna",
-        "source": "Spiral Prayer",
+        "source": "Calm Prayer",
         "name": "Prayer of Hope",
         "brave": 1,
         "type": "WHT",
@@ -2044,11 +2178,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "希望の祈り",
+        "id": "30542014",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Yuna",
-        "source": "Spiral Prayer",
+        "source": "Calm Prayer",
         "name": "Prayer of Hope",
         "brave": 2,
         "type": "WHT",
@@ -2061,11 +2197,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "希望の祈り",
+        "id": "30542015",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Yuna",
-        "source": "Spiral Prayer",
+        "source": "Calm Prayer",
         "name": "Prayer of Hope",
         "brave": 3,
         "type": "WHT",
@@ -2078,6 +2216,8 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "希望の祈り",
+        "id": "30542016",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -2098,6 +2238,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "流舞！",
+        "id": "30547061",
         "✓": "✓"
     },
     {
@@ -2118,6 +2259,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "流舞！",
+        "id": "30547062",
         "✓": "✓"
     },
     {
@@ -2138,6 +2280,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "流舞！",
+        "id": "30547063",
         "✓": "✓"
     },
     {
@@ -2158,6 +2301,7 @@
         "school": "Spellblade",
         "braveCondition": "Spellblade",
         "name(jp)": "流舞！",
+        "id": "30547064",
         "✓": "✓"
     },
     {
@@ -2178,6 +2322,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "シーフスパイラル",
+        "id": "30548335",
         "✓": "✓"
     },
     {
@@ -2198,6 +2343,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "シーフスパイラル",
+        "id": "30548336",
         "✓": "✓"
     },
     {
@@ -2218,6 +2364,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "シーフスパイラル",
+        "id": "30548337",
         "✓": "✓"
     },
     {
@@ -2238,6 +2385,7 @@
         "school": "Thief",
         "braveCondition": "Thief",
         "name(jp)": "シーフスパイラル",
+        "id": "30548338",
         "✓": "✓"
     },
     {
@@ -2258,6 +2406,7 @@
         "school": "Heavy",
         "braveCondition": "Dark",
         "name(jp)": "裁きの執行",
+        "id": "30549092",
         "✓": "✓"
     },
     {
@@ -2278,6 +2427,7 @@
         "school": "Heavy",
         "braveCondition": "Dark",
         "name(jp)": "裁きの執行",
+        "id": "30549093",
         "✓": "✓"
     },
     {
@@ -2298,6 +2448,7 @@
         "school": "Heavy",
         "braveCondition": "Dark",
         "name(jp)": "裁きの執行",
+        "id": "30549094",
         "✓": "✓"
     },
     {
@@ -2318,6 +2469,7 @@
         "school": "Heavy",
         "braveCondition": "Dark",
         "name(jp)": "裁きの執行",
+        "id": "30549095",
         "✓": "✓"
     },
     {
@@ -2338,6 +2490,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "奈落一蹴",
+        "id": "30549361",
         "✓": "✓"
     },
     {
@@ -2358,6 +2511,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "奈落一蹴",
+        "id": "30549362",
         "✓": "✓"
     },
     {
@@ -2378,6 +2532,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "奈落一蹴",
+        "id": "30549363",
         "✓": "✓"
     },
     {
@@ -2398,6 +2553,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "奈落一蹴",
+        "id": "30549364",
         "✓": "✓"
     },
     {
@@ -2418,6 +2574,7 @@
         "school": "Celerity",
         "braveCondition": "Lightning",
         "name(jp)": "電光雷轟",
+        "id": "30546011",
         "gl": "✓",
         "✓": "✓"
     },
@@ -2439,6 +2596,7 @@
         "school": "Celerity",
         "braveCondition": "Lightning",
         "name(jp)": "電光雷轟",
+        "id": "30546012",
         "gl": "✓",
         "✓": "✓"
     },
@@ -2460,6 +2618,7 @@
         "school": "Celerity",
         "braveCondition": "Lightning",
         "name(jp)": "電光雷轟",
+        "id": "30546013",
         "gl": "✓",
         "✓": "✓"
     },
@@ -2481,6 +2640,7 @@
         "school": "Celerity",
         "braveCondition": "Lightning",
         "name(jp)": "電光雷轟",
+        "id": "30546014",
         "gl": "✓",
         "✓": "✓"
     },
@@ -2502,6 +2662,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "フォールダウン=ギア",
+        "id": "30549665",
         "✓": "✓"
     },
     {
@@ -2522,6 +2683,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "フォールダウン=ギア",
+        "id": "30549666",
         "✓": "✓"
     },
     {
@@ -2542,6 +2704,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "フォールダウン=ギア",
+        "id": "30549667",
         "✓": "✓"
     },
     {
@@ -2562,6 +2725,7 @@
         "school": "Darkness",
         "braveCondition": "Dark",
         "name(jp)": "フォールダウン=ギア",
+        "id": "30549668",
         "✓": "✓"
     },
     {
@@ -2582,6 +2746,8 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "インドゥルゲンティア",
+        "id": "30542115",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -2602,6 +2768,8 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "インドゥルゲンティア",
+        "id": "30542116",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -2619,6 +2787,8 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "インドゥルゲンティア",
+        "id": "30542117",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -2639,11 +2809,13 @@
         "school": "White Magic",
         "braveCondition": "White Magic",
         "name(jp)": "インドゥルゲンティア",
+        "id": "30542118",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Thancred",
-        "source": "Shukiho Bhavacakra",
+        "source": "Wheel of Life",
         "name": "Trick Attack",
         "brave": 0,
         "type": "PHY",
@@ -2659,11 +2831,13 @@
         "school": "Ninja",
         "braveCondition": "Ninja",
         "name(jp)": "だまし討ち",
+        "id": "30549121",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Thancred",
-        "source": "Shukiho Bhavacakra",
+        "source": "Wheel of Life",
         "name": "Trick Attack",
         "brave": 1,
         "type": "PHY",
@@ -2679,11 +2853,13 @@
         "school": "Ninja",
         "braveCondition": "Ninja",
         "name(jp)": "だまし討ち",
+        "id": "30549122",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Thancred",
-        "source": "Shukiho Bhavacakra",
+        "source": "Wheel of Life",
         "name": "Trick Attack",
         "brave": 2,
         "type": "PHY",
@@ -2699,11 +2875,13 @@
         "school": "Ninja",
         "braveCondition": "Ninja",
         "name(jp)": "だまし討ち",
+        "id": "30549123",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Thancred",
-        "source": "Shukiho Bhavacakra",
+        "source": "Wheel of Life",
         "name": "Trick Attack",
         "brave": 3,
         "type": "PHY",
@@ -2719,11 +2897,13 @@
         "school": "Ninja",
         "braveCondition": "Ninja",
         "name(jp)": "だまし討ち",
+        "id": "30549124",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Alphinaud",
-        "source": "Garuda-Egi Burst",
+        "source": "Garuda Exoburst",
         "name": "Fester",
         "brave": 0,
         "type": "SUM",
@@ -2739,11 +2919,13 @@
         "school": "Summoning",
         "braveCondition": "Wind",
         "name(jp)": "ミアズマバースト",
+        "id": "30543053",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Alphinaud",
-        "source": "Garuda-Egi Burst",
+        "source": "Garuda Exoburst",
         "name": "Fester",
         "brave": 1,
         "type": "SUM",
@@ -2759,11 +2941,13 @@
         "school": "Summoning",
         "braveCondition": "Wind",
         "name(jp)": "ミアズマバースト",
+        "id": "30543054",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Alphinaud",
-        "source": "Garuda-Egi Burst",
+        "source": "Garuda Exoburst",
         "name": "Fester",
         "brave": 2,
         "type": "SUM",
@@ -2779,11 +2963,13 @@
         "school": "Summoning",
         "braveCondition": "Wind",
         "name(jp)": "ミアズマバースト",
+        "id": "30543055",
+        "gl": "✓",
         "✓": "✓"
     },
     {
         "character": "Alphinaud",
-        "source": "Garuda-Egi Burst",
+        "source": "Garuda Exoburst",
         "name": "Fester",
         "brave": 3,
         "type": "SUM",
@@ -2799,6 +2985,8 @@
         "school": "Summoning",
         "braveCondition": "Wind",
         "name(jp)": "ミアズマバースト",
+        "id": "30543056",
+        "gl": "✓",
         "✓": "✓"
     },
     {
@@ -2819,6 +3007,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "イービルブレード",
+        "id": "30549469",
         "✓": "✓"
     },
     {
@@ -2839,6 +3028,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "イービルブレード",
+        "id": "30549560",
         "✓": "✓"
     },
     {
@@ -2859,6 +3049,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "イービルブレード",
+        "id": "30549561",
         "✓": "✓"
     },
     {
@@ -2879,6 +3070,7 @@
         "school": "Darkness",
         "braveCondition": "Darkness",
         "name(jp)": "イービルブレード",
+        "id": "30549562",
         "✓": "✓"
     }
 ]
