@@ -1,7 +1,12 @@
-const {Command} = require('discord.js-commando');
-const path = require('path');
+const { Command } = require("discord.js-commando");
+const path = require("path");
 botPath = path.join(
-  __dirname, '..', '..', 'utilities', 'soulbreak-bot-utils.js');
+  __dirname,
+  "..",
+  "..",
+  "utilities",
+  "soulbreak-bot-utils.js"
+);
 const botUtils = require(botPath);
 
 module.exports = class ReplyCommand extends Command {
@@ -10,27 +15,27 @@ module.exports = class ReplyCommand extends Command {
    **/
   constructor(client) {
     super(client, {
-      name: 'aasb',
-      group: 'ffrk',
-      memberName: 'aasb',
-      description: 'Looks up alcoholic anonymous ' +
-        'overstrikes for a given character.',
-      examples: ['aasb Kain'],
+      name: "asb",
+      group: "ffrk",
+      memberName: "asb",
+      description: "Looks up awakenings for a given character.",
+      examples: ["asb Kain"],
       args: [
         {
-          key: 'characterName',
-          prompt: 'Enter the name of the character you wish to look up.',
-          type: 'string',
+          key: "characterName",
+          prompt: "Enter the name of the character you wish to look up.",
+          type: "string"
         },
         {
-          key: 'aasbNumber',
-          prompt: 'Enter the aasb number of the character' +
-            ' you wish to look up. (Optional.)',
-          type: 'integer',
-          default: '',
-        },
+          key: "aasbNumber",
+          prompt:
+            "Enter the asb number of the character" +
+            " you wish to look up. (Optional.)",
+          type: "integer",
+          default: ""
+        }
       ],
-      aliases: [],
+      aliases: ["aasb", "awsb"]
     });
   }
 
@@ -40,10 +45,11 @@ module.exports = class ReplyCommand extends Command {
    * @return {Method} msg.say: string
    **/
   run(msg, args) {
-    const {characterName, aasbNumber} = args;
-    return botUtils.soulbreak(msg, characterName, 'aasb', aasbNumber)
-      .catch( (err) => {
+    const { characterName, aasbNumber } = args;
+    return botUtils
+      .soulbreak(msg, characterName, "aasb", aasbNumber)
+      .catch(err => {
         console.log(`Error calling asbLookup: ${err}`);
       });
-  };
+  }
 };
